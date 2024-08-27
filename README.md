@@ -21,3 +21,11 @@ Before running the script, you need to install the required Python packages. Run
 
 ```bash
 pip install requests beautifulsoup4 pandas openpyxl
+
+## Usage
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/amazon-product-scraper.git
+   cd amazon-product-scraper
